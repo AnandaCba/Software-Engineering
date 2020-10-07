@@ -1,5 +1,5 @@
-# Software-Enginnering  At UNICID 
-###(Universidade Cidade de São Paulo)
+# Engenharia de Software na UNICID 
+### (Universidade Cidade de São Paulo)
 
 #### Todo resumo prático foi criado por mim a partir das video-aulas e pdf's da faculdade, acesse os links para ver mais sobre cada matéria. 
 
