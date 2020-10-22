@@ -1,4 +1,4 @@
-# 🤖Diário de um Engenheiro De Software🤖
+# Diário de um Engenheiro De Software - 🤖
 ## Engenharia de Software na UNICID
 ### (Universidade Cidade de São Paulo)
 
